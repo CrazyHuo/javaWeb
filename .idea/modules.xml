@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Java/JavaWeb/day12-Filter&amp;Listener&amp;AJAX/02-AJAX/代码/ajax-demo/ajax-demo/ajax-demo.iml" filepath="$PROJECT_DIR$/../../Java/JavaWeb/day12-Filter&amp;Listener&amp;AJAX/02-AJAX/代码/ajax-demo/ajax-demo/ajax-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ajax-demo-1/ajax-demo-1.iml" filepath="$PROJECT_DIR$/ajax-demo-1/ajax-demo-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brand-case/brand-case.iml" filepath="$PROJECT_DIR$/brand-case/brand-case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Java/JavaWeb/day12-Filter&amp;Listener&amp;AJAX/01-Filter&amp;Listener/代码/brand-demo/brand-demo/brand-demo.iml" filepath="$PROJECT_DIR$/../../Java/JavaWeb/day12-Filter&amp;Listener&amp;AJAX/01-Filter&amp;Listener/代码/brand-demo/brand-demo/brand-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Java/JavaWeb/day13-Vue&amp;Element/01-Vue&amp;ElementUI/代码/brand-demo/brand-demo/brand-demo (1).iml" filepath="$PROJECT_DIR$/../../Java/JavaWeb/day13-Vue&amp;Element/01-Vue&amp;ElementUI/代码/brand-demo/brand-demo/brand-demo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Java/JavaWeb/day10-JSP/批量删除/批量删除/day10_brand_case/day10_brand_case.iml" filepath="$PROJECT_DIR$/../../Java/JavaWeb/day10-JSP/批量删除/批量删除/day10_brand_case/day10_brand_case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filter-demo/filter-demo.iml" filepath="$PROJECT_DIR$/filter-demo/filter-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Java/JavaWeb/day12-Filter&amp;Listener&amp;AJAX/01-Filter&amp;Listener/代码/filter-demo/filter-demo/filter-demo (1).iml" filepath="$PROJECT_DIR$/../../Java/JavaWeb/day12-Filter&amp;Listener&amp;AJAX/01-Filter&amp;Listener/代码/filter-demo/filter-demo/filter-demo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Java/框架/框架整合/spring_16_spring_mybatis_anno/spring_16_spring_mybatis_anno/spring_16_spring_mybatis_anno/spring_16_spring_mybatis_anno.iml" filepath="$PROJECT_DIR$/../../Java/框架/框架整合/spring_16_spring_mybatis_anno/spring_16_spring_mybatis_anno/spring_16_spring_mybatis_anno/spring_16_spring_mybatis_anno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Java/spring_16_spring_mybatis_anno/spring_16_spring_mybatis_anno/spring_16_spring_mybatis_anno (1).iml" filepath="$PROJECT_DIR$/../../Java/spring_16_spring_mybatis_anno/spring_16_spring_mybatis_anno/spring_16_spring_mybatis_anno (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Java/JavaWeb/day13-Vue&amp;Element/01-Vue&amp;ElementUI/代码/vue-demo/vue-demo/vue-demo.iml" filepath="$PROJECT_DIR$/../../Java/JavaWeb/day13-Vue&amp;Element/01-Vue&amp;ElementUI/代码/vue-demo/vue-demo/vue-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vue-demo1/vue-demo1.iml" filepath="$PROJECT_DIR$/vue-demo1/vue-demo1.iml" />
+    </modules>
+  </component>
+</project>

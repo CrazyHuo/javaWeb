@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="day10_brand_case:war">
+    <output-path>$PROJECT_DIR$/../../Java/JavaWeb/day10-JSP/批量删除/批量删除/day10_brand_case/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>day10_brand_case</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="day10_brand_case-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="day10_brand_case:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring_16_spring_mybatis_anno" />
+        <module name="spring_16_spring_mybatis_anno (1)" />
+        <module name="vue-demo1" />
+        <module name="filter-demo" />
+        <module name="ajax-demo" />
+        <module name="brand-case" />
+        <module name="brand-demo" />
+        <module name="day10_brand_case" />
+        <module name="brand-demo (1)" />
+        <module name="vue-demo" />
+        <module name="filter-demo (1)" />
+        <module name="ajax-demo-1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ajax-demo" target="8" />
+      <module name="ajax-demo-1" target="8" />
+      <module name="brand-case" target="8" />
+      <module name="brand-demo" target="8" />
+      <module name="brand-demo (1)" target="8" />
+      <module name="day10_brand_case" target="8" />
+      <module name="filter-demo" target="1.5" />
+      <module name="filter-demo (1)" target="8" />
+      <module name="spring_16_spring_mybatis_anno" target="8" />
+      <module name="spring_16_spring_mybatis_anno (1)" target="8" />
+      <module name="vue-demo" target="8" />
+      <module name="vue-demo1" target="8" />
+      <module name="vue_demo_1" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

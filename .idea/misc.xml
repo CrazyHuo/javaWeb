@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/ajax-demo-1" />
+    <file type="web" url="file://$PROJECT_DIR$/brand-case" />
+    <file type="web" url="file://$PROJECT_DIR$/filter-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/vue-demo1" />
+    <file type="web" url="file://$PROJECT_DIR$/vue_demo_1" />
+    <file type="web" url="file://$PROJECT_DIR$/../../Java/JavaWeb/day10-JSP/批量删除/批量删除/day10_brand_case" />
+    <file type="web" url="file://$PROJECT_DIR$/../../Java/JavaWeb/day12-Filter&amp;Listener&amp;AJAX/01-Filter&amp;Listener/代码/brand-demo/brand-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/../../Java/JavaWeb/day12-Filter&amp;Listener&amp;AJAX/01-Filter&amp;Listener/代码/filter-demo/filter-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/../../Java/JavaWeb/day12-Filter&amp;Listener&amp;AJAX/02-AJAX/代码/ajax-demo/ajax-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/../../Java/JavaWeb/day13-Vue&amp;Element/01-Vue&amp;ElementUI/代码/brand-demo/brand-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/../../Java/JavaWeb/day13-Vue&amp;Element/01-Vue&amp;ElementUI/代码/vue-demo/vue-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/../../Java/JavaWeb/day13-Vue&amp;Element/02-综合案例/资料/01-初始工程/brand-case" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/filter-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Java/JavaWeb/day10-JSP/批量删除/批量删除/day10_brand_case/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Java/JavaWeb/day12-Filter&amp;Listener&amp;AJAX/01-Filter&amp;Listener/代码/filter-demo/filter-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Java/JavaWeb/day12-Filter&amp;Listener&amp;AJAX/02-AJAX/代码/ajax-demo/ajax-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Java/JavaWeb/day12-Filter&amp;Listener&amp;AJAX/01-Filter&amp;Listener/代码/brand-demo/brand-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/ajax-demo-1/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Java/JavaWeb/day13-Vue&amp;Element/01-Vue&amp;ElementUI/代码/vue-demo/vue-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Java/JavaWeb/day13-Vue&amp;Element/01-Vue&amp;ElementUI/代码/brand-demo/brand-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Java/JavaWeb/day13-Vue&amp;Element/02-综合案例/资料/01-初始工程/brand-case/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Java/框架/框架整合/spring_16_spring_mybatis_anno/spring_16_spring_mybatis_anno/spring_16_spring_mybatis_anno/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Java/spring_16_spring_mybatis_anno/spring_16_spring_mybatis_anno/pom.xml" />
+        <option value="$PROJECT_DIR$/vue-demo1/pom.xml" />
+        <option value="$PROJECT_DIR$/brand-case/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
