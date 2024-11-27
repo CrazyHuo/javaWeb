@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:v-on="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!--引入vue库-->
+<!--    <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>-->
+</head>
+<body>
+<div id="app">
+
+    <input type="button" value="一个按钮" v-on:click="show()">
+    <!--简化写法-->
+    <input type="button" value="一个按钮" @click="show()">
+
+</div>
+<!--引入vue库-->
+<script src="js/vue.js"></script>
+
+<script>
+    //1.创建Vue核心对象
+    new Vue({
+        el:"#app",
+        data(){
+            return{
+                username:"",
+                url:"https://www.baidu.com"
+            }
+        },
+        methods:{
+          show(){
+              alert("单机事件")
+          }
+        }
+    })
+</script>
+
+</body>
+</html>

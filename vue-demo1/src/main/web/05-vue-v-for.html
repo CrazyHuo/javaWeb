@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:v-on="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!--引入vue库-->
+    <!--    <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>-->
+</head>
+<body>
+<div id="app">
+
+    <div v-for="addr in addrs">
+        {{addr}}<br>
+    </div>
+
+    <hr>
+    <div v-for="(addr,i) in addrs">
+        {{i+1}}{{addr}}<br>
+    </div>
+
+</div>
+<!--引入vue库-->
+<script src="js/vue.js"></script>
+
+<script>
+    //1.创建Vue核心对象
+    new Vue({
+        el: "#app",
+        data() {
+            return {
+                username: "",
+                url: "https://www.baidu.com",
+                count: 3,
+                addrs: ["安徽", "南京", "北京"]
+            }
+        },
+        methods: {
+            show() {
+                alert("单机事件")
+            }
+        }
+    })
+</script>
+
+</body>
+</html>
